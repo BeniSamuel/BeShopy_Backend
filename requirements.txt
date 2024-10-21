@@ -1,2 +1,6 @@
 Python==3.12.4
 Flask==3.0.3
+Werkzeug==3.0.4
+flask-sqlalchemy==3.1.1
+sqlalchemy==2.0.36
+greenlet==3.1.1
